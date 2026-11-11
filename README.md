@@ -1,4 +1,4 @@
-# Handshake: AI-judged escrow on PayPal (PayPal AI Hackathon)
+# Handshake: AI-judged escrow on PayPal
 
 PayPal holds the money. AI decides who is right. Three features, one loop:
 - **Scam Radar** warns the buyer before paying (green / yellow / red).
